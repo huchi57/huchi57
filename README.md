@@ -1,7 +1,6 @@
 <!--### Hi there 👋-->
 
-[![Huchi57's GitHub stats](https://github-readme-stats.vercel.app/api?username=huchi57&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=huchi57&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Huchi57's GitHub stats](https://github-readme-stats.vercel.app/api?username=huchi57&theme=react&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
