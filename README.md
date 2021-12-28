@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 
-[![Huchi57's GitHub stats](https://github-readme-stats.vercel.app/api?username=huchi57&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Huchi57's GitHub stats](https://github-readme-stats.vercel.app/api?username=huchi57&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
