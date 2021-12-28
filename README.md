@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
 
 ## Hu Chi 胡琦
-**University of the Arts London** - Games Design MA
+**University of the Arts London** - Games Design MA</br>
 **National Tsing Hua University** - Computer Science BS
 
 [![Huchi57's GitHub stats](https://github-readme-stats.vercel.app/api?username=huchi57&theme=react&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
