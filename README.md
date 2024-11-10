@@ -1,7 +1,6 @@
 <!--### Hi there 👋-->
 
 ## Hu Chi 胡琦
-Previous game programmer at **Goldborough Studio**</br>
 **Tokyo University of the Arts** - Film Production MA</br>
 **University of the Arts London** - Games Design MA</br>
 **National Tsing Hua University** - Computer Science BS
