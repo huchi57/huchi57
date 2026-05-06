@@ -1,7 +1,5 @@
 <!--### Hi there 👋-->
 
-Making games & films.
-
 
 
 <!--
